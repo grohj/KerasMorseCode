@@ -1,2 +1,2 @@
 # KerasMorseCode
-Simple neural net learning morse code.
+Simple neural net learning to decode morse code. 
